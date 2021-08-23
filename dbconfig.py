@@ -2,7 +2,7 @@ DATABASE_CONFIG = {
     'host' : 'localhost',
     'dbname' : 'tracycle',
     'user' : 'root',
-    'password' : '1234',
+    'password' : '12345678',
     'port' : 3306
 }
 
